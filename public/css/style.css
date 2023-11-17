@@ -1,0 +1,36 @@
+
+/* Import the Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/* Futuristic Old School Styles */
+
+body {
+    background-color: #000;
+    color: #0ff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 0 0 5px #0ff, 0 0 10px #0ff, 0 0 15px #0ff, 0 0 20px #0ff;
+}
+
+a {
+    color: #0ff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+button {
+    background-color: #000;
+    border: 1px solid #0ff;
+    color: #0ff;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0ff;
+    color: #000;
+}
